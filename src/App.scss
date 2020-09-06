@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #104c8ecc;
+
+}
+.App {
+    width: 50%;
+    color: white;
+    margin: 0 auto;
+    .list-row {
+        margin: 5px 0px;
+        padding: 3px;
+        background: #072852ed;
+    }
+    hr {
+        border-top: '1px solid rgb(255 255 255)'; 
+    }
+}
