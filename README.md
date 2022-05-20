@@ -1,10 +1,12 @@
-git clone https://github.com/akhtarvahid/local-json-react.git
+# Steps to clone and run locally
 
-cd local-json-react
+> git clone https://github.com/akhtarvahid/local-json-react.git
 
-local-json-react> npm i
+> cd local-json-react
 
-local-json-react> npm start
+> local-json-react> npm i
+
+> local-json-react> npm start
 
 
 
